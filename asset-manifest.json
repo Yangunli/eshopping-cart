@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eshopping-cart/static/css/main.fdd7aae8.css",
+    "main.js": "/eshopping-cart/static/js/main.cb6af46e.js",
+    "index.html": "/eshopping-cart/index.html",
+    "main.fdd7aae8.css.map": "/eshopping-cart/static/css/main.fdd7aae8.css.map",
+    "main.cb6af46e.js.map": "/eshopping-cart/static/js/main.cb6af46e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdd7aae8.css",
+    "static/js/main.cb6af46e.js"
+  ]
+}

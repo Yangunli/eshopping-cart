@@ -23,7 +23,7 @@ const Header = () => {
     <Navbar bg="dark" variant="dark" style={{ height: 80, width: "100vw" }}>
       <Container>
         <Navbar.Brand>
-          <Link to="/">Shopping Cart</Link>
+          <Link to="/eshopping-cart">Shopping Cart</Link>
         </Navbar.Brand>
 
         <Navbar.Text className="search">
@@ -80,7 +80,7 @@ const Header = () => {
                       />
                     </span>
                   ))}
-                  <Link to="/cart">
+                  <Link to="/eshopping-cart/cart">
                     <Button style={{ width: "95%", margin: "0 10px" }}>
                       Go To Cart
                     </Button>

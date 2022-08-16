@@ -11,8 +11,8 @@ function App() {
       <Header />
       <div className="app">
         <Routes>
-          <Route path="/" element={<Home />} exact />
-          <Route path="/cart" element={<Cart />} />
+          <Route path="/eshopping-cart" element={<Home />} exact />
+          <Route path="/eshopping-cart/cart" element={<Cart />} />
         </Routes>
       </div>
     </BrowserRouter>
